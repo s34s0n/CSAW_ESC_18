@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/btle_rx.dir/btle_rx.c.o  -o btle_rx -lhackrf -lm 
